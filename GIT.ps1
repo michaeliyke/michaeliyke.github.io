@@ -2,5 +2,5 @@
 cls
 git add --all :/
 git commit -am "Auto Commits"
-git pull origin master
+REM git pull origin master
 git push origin master
