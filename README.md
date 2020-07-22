@@ -1,30 +1,39 @@
-# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+# [Michael Iyke - Web Developer](https://michaeliyke.com/)
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+I am with [Webclause Design Agency](http://webclause.com/) 
+I am all about efficiency in software design. Of course a sotware designed efficiently may not be usable and finding the balance is
+what makes us the pro. So speaking about me without a mention of User Experience and is far unlikely to make up. UX is the blood of a 
+creation. 
+You can reach me on [Contact page](http://contact.michaeliyke.com/) for a quick hello or buzz me [on Twitter](http://twitter.com/michaelciyke/). I am open for hot deals: freelance or a full-time position.
 
-## Preview
+## Hello! You're on with Michael 
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/screenshots/themes/stylish-portfolio.png)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)**
+**[Visit site](https://michaeliykeiyke.com/)**
 
-## Status
+## Quick Links
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-stylish-portfolio/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio?type=dev)
+[![Currency Converter](https://img.shields.io/badge/license-MIT-blue.svg)](https://currency.michaeliyke.com)
 
-## Download and Installation
+[![Blog](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://blog.michaeliyke.com/)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio)
+[![Budget Utility](https://travis-ci.org/BlackrockDigital/startbootstrap-stylish-portfolio.svg?branch=master)](https://playground.michaeliyke.com/)
 
-## Usage
+[![Tabforward](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://playground.michaeliyke.com/tabforward/)
+
+[![Armstrong](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://playground.michaeliyke.com/Armstrong/)
+
+[![Take a color](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://playground.michaeliyke.com/color/)
+
+## Let's set th stage!
+
+* Few quick nuggets to put us set the stage and ensure we are both on the same page:
+* UX is not UI and UI is not UX, `but they know each other`
+* Know one thing about everything and know everything about one thing!
+* If 
+* [More of my rants on Twitter](https://twitter.com/michaelciyke/)
+
+<!-- ## Usage
 
 ### Basic Usage
 
@@ -65,4 +74,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license. -->
