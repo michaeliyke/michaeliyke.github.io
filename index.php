@@ -11,12 +11,12 @@
   <title>Stylish Portfolio - Start Bootstrap Template</title>
 
   <!-- Bootstrap Core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="resource/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom Fonts -->
-  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="resource/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
-  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+  <link href="resource/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
   <!-- Custom CSS -->
   <link href="css/stylish-portfolio.min.css" rel="stylesheet">
@@ -24,8 +24,8 @@
 </head>
 
 <body id="page-top">
-<link rel="stylesheet" type="text/css" href="vendor/AOS/aos.min.css">
-<script type="text/javascript" src="vendor/AOS/aos.min.js"></script>
+<link rel="stylesheet" type="text/css" href="resource/AOS/aos.min.css">
+<script type="text/javascript" src="resource/AOS/aos.min.js"></script>
 
   <!-- Navigation -->
   <a class="menu-toggle rounded" href="#">
@@ -244,11 +244,11 @@
   </a>
 
   <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="resource/jquery/jquery.min.js"></script>
+  <script src="resource/bootstrap/js/bootstrap.bundle.min.js"></script>
 
   <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="resource/jquery-easing/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for this template -->
   <script src="js/stylish-portfolio.min.js"></script>
